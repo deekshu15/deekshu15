@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deekshu15" alt="deekshu15" /></a> </p>
 
-- 🔭 I’m currently working on **AI DIGITAL DETOX COACH**
+- 🔭 I’m currently working on **Keyword Spotting Model(CNN)**
 
-- 🌱 I’m currently learning **Python On ML**
+- 🌱 I’m currently learning **Python On ML and DL**
 
 - 👯 I’m looking to collaborate on **Interested to Collab for Backend And UI/UX**
 
