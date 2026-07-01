@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Deekshitha Bonthu</h1>
-<h3 align="center">A passionate frontend/Backend developer</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deekshu15&label=Profile%20views&color=0e75b6&style=flat" alt="deekshu15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deekshu15" alt="deekshu15" /></a> </p>
 
-- 🔭 I’m currently working on **Keyword Spotting Model(CNN)**
+- 🔭 I’m currently working on **AI-Assisted Threat Detection Dashboard**
 
-- 🌱 I’m currently learning **Python On ML and DL**
+- 🌱 I’m currently learning **SQL and Excel**
 
-- 👯 I’m looking to collaborate on **Interested to Collab for Backend And UI/UX**
+- 👯 I’m looking to collaborate on **Interested to Collab for Data Analyst**
 
 - 📫 How to reach me **deekshithabonthu15@gmail.com**
 
